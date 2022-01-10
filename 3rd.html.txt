@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>印尼 蘇門答臘</title>
+</head>
+<body>
+
+<img src="11.jpg" width="400" height="300" align="left">
+<h2>印尼 蘇門答臘</h2><br>
+NT$580<br>
+
+Sumatra, Ache, Gayo GLBS, SC20+<br>
+
+巧克力、丁香、啤酒花、草本<br>
+現代的臘腸犬有著彎曲的雙腿，鬆軟的皮膚和突出的胸部，許多特性由人為培養而來，<br>
+
+<a href="index.html">首頁</a>&nbsp&nbsp&nbsp
+<a href="3rd.html">經典家常配方</a>&nbsp&nbsp&nbsp&nbsp
+<a href="4th.html">台灣 草嶺山</a>&nbsp&nbsp&nbsp&nbsp
+<a href="5th.html">心得</a>&nbsp&nbsp&nbsp
+
+<audio src="13.mp3"controls autoplay></audio>
+
+</body>
+</html>

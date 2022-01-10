@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>狗狗心得</title>
+</head>
+<body>
+<h3>我自己是經營咖啡豆買賣，官網架設也可以幫助到我很多，<br>
+對我來說，每天起床、喝一杯咖啡是生活的一部分。<br>
+提升咖啡產品的能見度是學網路架設最有收穫的一件事。<br></h3>
+<br>
+<br>
+<br>
+
+<a href="index.html">首頁</a>&nbsp&nbsp&nbsp
+<a href="2nd.html">經典家常配方</a>&nbsp&nbsp&nbsp&nbsp
+<a href="3rd.html">印尼 蘇門答臘</a>&nbsp&nbsp&nbsp&nbsp
+<a href="4th.html">台灣 草嶺山</a>&nbsp&nbsp&nbsp&nbsp
+<br>
+班級:(進修)餐飲三甲 學號:90834126 姓名:陳易揚
+<audio src="13.mp3"controls autoplay></audio>
+
+</body>
+</html>
